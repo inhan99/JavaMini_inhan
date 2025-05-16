@@ -26,12 +26,15 @@
 베팅 방식을 선택 -> 금액입력 -> 말선택 -> 경기시작
 ![Image](https://github.com/user-attachments/assets/881d432a-e360-44e6-8934-f654cfd767c0)
 
+
 🐎경기 진행 흐름(Gif로 수정 예정)
 ![Image](https://github.com/user-attachments/assets/c572a826-97e6-4014-89ab-4d1e82a5a685)
-![Image](https://github.com/user-attachments/assets/5e40495e-1152-4236-90ef-616c0d1149bc)
+![Image](https://github.com/user-attachments/assets/5e40495e-1152-4236-90ef-616c0d1149bc)  
+
 
 🏆결과
-![Image](https://github.com/user-attachments/assets/bf02f3a7-a166-4bda-8fdb-cb87f56ba576)
+![Image](https://github.com/user-attachments/assets/bf02f3a7-a166-4bda-8fdb-cb87f56ba576)  
+
 승패판단 + 결과화면 로직
 ![Image](https://github.com/user-attachments/assets/ff19df7f-9e90-4a2e-95b5-c1e176ee0209)
 
