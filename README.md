@@ -40,11 +40,14 @@
 승패판단 + 결과화면 로직
 ![Image](https://github.com/user-attachments/assets/ff19df7f-9e90-4a2e-95b5-c1e176ee0209)
 
-❌Exception 처리
+❌Exception 처리  
+
 ![Image](https://github.com/user-attachments/assets/8df477c9-0ad5-4534-9c6a-7f7e17323c30)
 
-🧩Implements로 BasicHorse 클래스를 구현
+🧩Implements로 BasicHorse 클래스를 구현  
+
 ![Image](https://github.com/user-attachments/assets/17a06f40-934d-4586-852c-4d4e8cc0f504)
 
-##⚒️ 기술 스택
+##⚒️ 기술 스택  
+
 -Eclipse & Java
