@@ -33,7 +33,8 @@
 ![Image](https://github.com/user-attachments/assets/5e40495e-1152-4236-90ef-616c0d1149bc)  
 
 
-🏆결과
+🏆결과  
+
 ![Image](https://github.com/user-attachments/assets/bf02f3a7-a166-4bda-8fdb-cb87f56ba576)  
 
 승패판단 + 결과화면 로직
