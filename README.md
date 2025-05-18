@@ -47,7 +47,8 @@
 
 ## 🧩Implements로 BasicHorse 클래스를 구현  
 
-![Image](https://github.com/user-attachments/assets/17a06f40-934d-4586-852c-4d4e8cc0f504)
+![Image](https://github.com/user-attachments/assets/79124427-7223-4466-a8d7-bd581948b827)  
+
 
 ## ⚒️ 기술 스택  
 
