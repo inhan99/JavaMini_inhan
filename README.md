@@ -43,7 +43,7 @@
 
 ## ❌Exception 처리  
 
-![Image](https://github.com/user-attachments/assets/8df477c9-0ad5-4534-9c6a-7f7e17323c30)
+![Image](https://github.com/user-attachments/assets/56495381-02dd-4735-8724-952839dd101f)
 
 ## 🧩Implements로 BasicHorse 클래스를 구현  
 
