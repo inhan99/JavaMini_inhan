@@ -29,7 +29,7 @@
 
 
 ## 🐎경기 진행 흐름(Gif로 수정 예정)
-![Image](https://github.com/user-attachments/assets/c572a826-97e6-4014-89ab-4d1e82a5a685)  
+![Image](https://github.com/user-attachments/assets/06f15102-3af7-45ae-86a0-5db909aa0761)  
 
 ![Image](https://github.com/user-attachments/assets/5e40495e-1152-4236-90ef-616c0d1149bc)  
 
