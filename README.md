@@ -22,7 +22,8 @@
 
 
 ## 🔄UI흐름 방식
-베팅 방식을 선택 -> 금액입력 -> 말선택 -> 경기시작
+베팅 방식을 선택 -> 금액입력 -> 말선택 -> 경기시작  
+
 ![Image](https://github.com/user-attachments/assets/250d3857-eac2-48cf-a26f-cc9767940e53)  
 
 ![Image](https://github.com/user-attachments/assets/881d432a-e360-44e6-8934-f654cfd767c0)
